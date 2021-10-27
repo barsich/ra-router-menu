@@ -1,1 +1,2 @@
-# ra-router-menu
+# ra-router-menu [![Build status](https://ci.appveyor.com/api/projects/status/ga9sbn6t1kvig96j?svg=true)](https://ci.appveyor.com/project/barsich/ra-router-menu)
+[GithubPages](https://barsich.github.io/ra-router-menu/)
